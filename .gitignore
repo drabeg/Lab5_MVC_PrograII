@@ -1,0 +1,17 @@
+# Carpetas de compilación de NetBeans
+/build/
+/dist/
+
+# Configuraciones locales privadas
+/nbproject/private/
+/nbproject/project.xml.bak
+
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de sistema operativo (opcional pero recomendado)
+.DS_Store
+Thumbs.db
